@@ -1,5 +1,5 @@
 💻 Estudante de Tecnologia
-Estou em busca de construir uma base sólida em tecnologia, com foco em Python, Java, e Banco de Dados (MySQL e Oracle).
+Estou em busca de construir uma base sólida em tecnologia, com foco em Python, Java, e Banco de Dados.
 
 📚 Aprimoramento Contínuo
 Comprometido com o aprendizado prático, aplico meus conhecimentos para resolver desafios reais. Minha curiosidade me motiva a criar soluções eficientes e inovadoras.
