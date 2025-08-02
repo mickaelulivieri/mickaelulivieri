@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Mickael Carvalho
+# 👋 Olá! Eu sou o Mickael Ulivieri
 
 💻 Estudante apaixonado por tecnologia e focado em construir uma base sólida para atuar como desenvolvedor. Tenho experiência com:
 
